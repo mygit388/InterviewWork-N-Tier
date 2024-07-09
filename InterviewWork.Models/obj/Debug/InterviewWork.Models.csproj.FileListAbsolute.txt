@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\InterviewWork.Models\bin\Debug\InterviewWork.Models.dll
+C:\Users\LENOVO\source\repos\InterviewWork.Models\bin\Debug\InterviewWork.Models.pdb
+C:\Users\LENOVO\source\repos\InterviewWork.Models\obj\Debug\InterviewWork.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\InterviewWork.Models\obj\Debug\InterviewWork.Models.dll
+C:\Users\LENOVO\source\repos\InterviewWork.Models\obj\Debug\InterviewWork.Models.pdb
+C:\Users\LENOVO\source\repos\InterviewWork.Models\obj\Debug\InterviewWork.Models.csproj.AssemblyReference.cache
